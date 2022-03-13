@@ -9,7 +9,7 @@ Build a website that provides an in-depth analysis of UFO sightings by allowing 
 
 ### Resources
 - Sofware: Visual Studio Code
-- Language: JavaScript
+- Languages: JavaScript, HTML, CSS
 
 ## Results: 
 
