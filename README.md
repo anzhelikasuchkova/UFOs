@@ -23,4 +23,11 @@ If one is curious to what sighting happened in a certain state, they just need t
 
 If one wants to narrow the search down even more, for example find a sighting event in a specific city in Arizona, they need to add the name of the city, in addition to the state name, to the "Exter a City" box and the table will populate automaticaly.  
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary:
+
+### 1 Drawback:
+- Design of this page could use some improvement, adding some dinamic visuals could make the page more interesting to look at. 
+ 
+### 2 Recommendations: 
+- Add a counter to show and keep track of how many sightings happened to date. 
+- Add a map of the sightings to draw connections and have a better visual of the scope of this phenomenon. 
