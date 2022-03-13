@@ -13,6 +13,8 @@ Build a website that provides an in-depth analysis of UFO sightings by allowing 
 
 ## Results: 
 
+<img width="1440" alt="website" src="https://user-images.githubusercontent.com/93845867/158039537-1f3cff30-61b6-409c-96d9-1203659df715.png">
+
 ### Deliverable 1:  
 
 <img width="1324" alt="ar" src="https://user-images.githubusercontent.com/93845867/158039151-2022487e-0b7b-47d7-a939-4263f4ff8c85.png">
