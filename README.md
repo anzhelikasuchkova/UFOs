@@ -13,6 +13,14 @@ Build a website that provides an in-depth analysis of UFO sightings by allowing 
 
 ## Results: 
 
-### Deliverable 1:
+### Deliverable 1:  
 
-## Summary:
+<img width="1324" alt="ar" src="https://user-images.githubusercontent.com/93845867/158039151-2022487e-0b7b-47d7-a939-4263f4ff8c85.png">
+
+If one is curious to what sighting happened in a certain state, they just need to add the state name abbreviation and the results will filter accordingly. For example, if you want to see what sightings happened in Arizona, enter "ar" into the "Enter a State" box and it'll adjust the table to 3 sightings that happened in Arizona. 
+
+<img width="1178" alt="alma" src="https://user-images.githubusercontent.com/93845867/158039295-95d56be8-201a-4e61-ac8e-54e753659d57.png">
+
+If one wants to narrow the search down even more, for example find a sighting event in a specific city in Arizona, they need to add the name of the city, in addition to the state name, to the "Exter a City" box and the table will populate automaticaly.  
+
+## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
